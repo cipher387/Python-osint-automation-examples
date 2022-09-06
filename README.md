@@ -3,6 +3,47 @@ In this repository, I will collect quick and simple code examples that use Pytho
 
 
 
+# How to run this scripts?
+
+Copy file to your computer/server/online IDE and run in command line:
+
+python filename.py
+
+For example:
+
+python youtube_video_search.py
+
+
+
+If you haven't used Python before, you have several ways to get started:
+
+## Variant 1
+
+Install Python in your computer using this instruction https://realpython.com/installing-python/
+
+
+## Variant 2
+
+
+Open this repository in Gitpod https://gitpod.io#https://github.com/cipher387/Python-osint-automation-examples
+
+(To run it for the first time, you need to log in to your Github, Gitlab, or Bitbucket account)
+
+
+## Variant 3
+
+
+Install a Linux VM with Python preinstalled.
+
+If you are doing OSINT, I recommend you start with Tsurugi Acquire https://archive.org/download/tsurugi_acquire_2021.1/tsurugi_acquire_2021.1.iso
+
+For launch VM in Windows and old MacBooks you may use Virtual Box https://www.virtualbox.org
+
+For new MacBooks with M1 — UTM https://mac.getutm.app
+
+(if your computer has modest technical resources, you can specify in the VM settings for Tsurugi Linux Acquire 2-4 GB of RAM, but run it only in text mode)
+
+
 # A list of links to case studies and discussions on my Twitter account @cyb_detective
 
 
