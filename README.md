@@ -10,4 +10,5 @@ In this repository, I will collect quick and simple code examples that use Pytho
 
 
 youtube_video_search.py
+youtube_channel_search.py
 
