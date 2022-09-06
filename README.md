@@ -9,6 +9,9 @@ In this repository, I will collect quick and simple code examples that use Pytho
 ## YouTubeSearch (https://pypi.org/project/youtube-search-python/)
 
 
-youtube_video_search.py
-youtube_channel_search.py
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_video_search.py
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_channel_search.py
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_search_videos_in_channel.py
 
