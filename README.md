@@ -30,6 +30,7 @@ Install Python in your computer using this instruction https://realpython.com/in
 
 ## Variant 2
 
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/gitpod.png)
 
 Open this repository in Gitpod https://gitpod.io#https://github.com/cipher387/Python-osint-automation-examples
 
