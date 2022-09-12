@@ -44,7 +44,7 @@ For new MacBooks with M1 — UTM https://mac.getutm.app
 (if your computer has modest technical resources, you can specify in the VM settings for Tsurugi Linux Acquire 2-4 GB of RAM, but run it only in text mode)
 
 
-# A list of links to case studies and discussions on my Twitter account [@cyb_detective](twitter.com/cyb_detective)
+# A list of links to case studies and discussions on my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 
 ## YouTubeSearch (https://pypi.org/project/youtube-search-python/)
