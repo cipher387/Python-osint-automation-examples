@@ -5,6 +5,10 @@ In this repository, I will collect quick and simple code examples that use Pytho
 
 # How to run this scripts?
 
+
+
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/run_python_script.png)
+
 Copy file to your computer/server/online IDE and run in command line:
 
 python filename.py
