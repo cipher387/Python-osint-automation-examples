@@ -57,9 +57,15 @@ https://twitter.com/cyb_detective/status/1567170268937723905
 
 Source code:
 
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/youtube_search.jpeg)
+
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_video_search.py
 
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/youtube_search_2.jpeg)
+
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_channel_search.py
+
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/youtube_search_3.jpeg)
 
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_search_videos_in_channel.py
 
