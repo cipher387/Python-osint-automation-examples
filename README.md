@@ -23,6 +23,8 @@ If you haven't used Python before, you have several ways to get started:
 
 ## Variant 1
 
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/real_python.jpeg)
+
 Install Python in your computer using this instruction https://realpython.com/installing-python/
 
 
