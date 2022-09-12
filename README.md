@@ -61,3 +61,14 @@ https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_
 
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_search_videos_in_channel.py
 
+
+## YouTube Comment Downloader (https://pypi.org/project/youtube-comment-downloader/)
+
+
+Twitter thread:
+
+https://twitter.com/cyb_detective/status/1569147434248376321
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_comment_downloader.py
+
+
