@@ -55,7 +55,7 @@ Twitter thread:
 https://twitter.com/cyb_detective/status/1567170268937723905
 
 
-Source code:
+Source code files (example of results in the pictures):
 
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/youtube_search.jpeg)
 
@@ -77,7 +77,7 @@ Twitter thread:
 
 https://twitter.com/cyb_detective/status/1569147434248376321
 
-Source code:
+Source code files (example of results in the pictures):
 
 
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/youtube_comment_downloader.png)
