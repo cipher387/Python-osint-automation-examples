@@ -39,6 +39,8 @@ Open this repository in Gitpod https://gitpod.io#https://github.com/cipher387/Py
 
 ### Variant 3
 
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/tsurigi.png)
+
 
 Install a Linux VM with Python preinstalled.
 
