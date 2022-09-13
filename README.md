@@ -5,13 +5,13 @@ In this repository, I will collect quick and simple code examples that use Pytho
 
 ## [](#table-of-contents) Table of contents
 - [How to run this scripts?](#how-to-run-this-scripts) 
-     - [Variant #1](#variant1) 
-     - [Variant #2](#variant2) 
-     - [Variant #3](#variant3) 
-- [Packages using examples from my Twitter account](#usingexamples)
-     - [YouTubeSearch](#youtubesearch) 
-     - [YouTube Comments Downloader](#youtubecommentsdownloader) 
-     - [Whois](#whois) 
+     - [Variant #1](#variant-1) 
+     - [Variant #2](#variant-2) 
+     - [Variant #3](#variant-3) 
+- [Packages using examples from my Twitter account](#packages-using-examples-from-my-twitter-account-cyb_detective)
+     - [YouTubeSearch](#youtubesearch-httpspypiorgprojectyoutube-search-python) 
+     - [YouTube Comments Downloader](#-youtube-comment-downloader-httpspypiorgprojectyoutube-comment-downloader) 
+     - [Whois](#whois-httpspypiorgprojectpython-whois) 
 - [HINTS](#hints)
 
 ## [](#how-to-run-this-scripts)How to run this scripts?
