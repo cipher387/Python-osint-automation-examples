@@ -122,7 +122,7 @@ https://github.com/cipher387/Python-osint-automation-examples/blob/main/whois.py
 
 
 
-## [](#hints) HINTS
+## [](#hints)HINTS
 
 
 ### Saving results to .txt file
