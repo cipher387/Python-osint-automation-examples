@@ -109,3 +109,16 @@ Source code files (example of results in the pictures):
 
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/whois.py
 
+
+
+## HINTS
+
+
+### Saving results to .txt file
+
+If you want to save the results to a text file, add "filename.txt" after the command to run the script
+
+(view pic)
+
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/results_to_file.png)
+
