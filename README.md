@@ -8,7 +8,7 @@ In this repository, I will collect quick and simple code examples that use Pytho
      - [Variant #1](#variant1) 
      - [Variant #2](#variant2) 
      - [Variant #3](#variant3) 
-- [ackages using examples from my Twitter account](#usingexamples) P
+- [Packages using examples from my Twitter account](#usingexamples)
      - [YouTubeSearch](#youtubesearch) 
      - [YouTube Comments Downloader](#youtubecommentsdownloader) 
      - [Whois](#whois) 
