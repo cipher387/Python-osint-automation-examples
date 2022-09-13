@@ -94,3 +94,15 @@ Source code files (example of results in the pictures):
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_comment_downloader.py
 
 
+### WHOIS (https://pypi.org/project/python-whois/)
+
+Twitter thread:
+
+https://twitter.com/cyb_detective/status/1569500433827385344
+
+
+Source code files (example of results in the pictures):
+
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/whois.py
+
