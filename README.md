@@ -9,6 +9,9 @@ In this repository, I will collect quick and simple code examples that use Pytho
      - [Variant #2](#variant2)
      - [Variant #3](#variant3)
 - [Packages using examples from my Twitter account](#usingexamples)
+     - [YouTubeSearch](#youtubesearch)
+     - [You Comments Downloader](#youtubecommentsdownloader)
+     - [Whois](#whois)
 - [HINTS](#hints)
 
 ## [](#how-to-run-this-scripts)How to run this scripts?
@@ -64,7 +67,7 @@ For new MacBooks with M1 — UTM https://mac.getutm.app
 ##  [](#usingexamples)Packages using examples from my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 
-### YouTubeSearch (https://pypi.org/project/youtube-search-python/)
+### []((#youtubesearch)YouTubeSearch (https://pypi.org/project/youtube-search-python/)
 
 
 Twitter thread:
@@ -87,7 +90,7 @@ https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_search_videos_in_channel.py
 
 
-### YouTube Comment Downloader (https://pypi.org/project/youtube-comment-downloader/)
+### [](#youtubecommentsdownloader)YouTube Comment Downloader (https://pypi.org/project/youtube-comment-downloader/)
 
 
 Twitter thread:
@@ -102,7 +105,7 @@ Source code files (example of results in the pictures):
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_comment_downloader.py
 
 
-### WHOIS (https://pypi.org/project/python-whois/)
+### [](#whois)WHOIS (https://pypi.org/project/python-whois/)
 
 Twitter thread:
 
