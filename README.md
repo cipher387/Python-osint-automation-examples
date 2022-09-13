@@ -67,7 +67,7 @@ For new MacBooks with M1 — UTM https://mac.getutm.app
 ##  [](#usingexamples)Packages using examples from my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 
-### []((#youtubesearch)YouTubeSearch (https://pypi.org/project/youtube-search-python/)
+### [](#youtubesearch)YouTubeSearch (https://pypi.org/project/youtube-search-python/)
 
 
 Twitter thread:
