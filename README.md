@@ -3,7 +3,11 @@ In this repository, I will collect quick and simple code examples that use Pytho
 
 
 
-## How to run this scripts?
+## [](#table-of-contents) Table of contents
+- [How to run this scripts?](#how-to-run-this-scripts)
+- [HINTS](#hints)
+
+## (#how-to-run-this-scripts)How to run this scripts?
 
 
 
@@ -111,7 +115,7 @@ https://github.com/cipher387/Python-osint-automation-examples/blob/main/whois.py
 
 
 
-## HINTS
+## (#hints)HINTS
 
 
 ### Saving results to .txt file
