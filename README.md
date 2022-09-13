@@ -5,6 +5,10 @@ In this repository, I will collect quick and simple code examples that use Pytho
 
 ## [](#table-of-contents) Table of contents
 - [How to run this scripts?](#how-to-run-this-scripts)
+     - [Variant #1](#variant1)
+     - [Variant #2](#variant2)
+     - [Variant #3](#variant3)
+- [Packages using examples from my Twitter account](#usingexamples)
 - [HINTS](#hints)
 
 ## [](#how-to-run-this-scripts)How to run this scripts?
@@ -25,14 +29,14 @@ python youtube_video_search.py
 
 If you haven't used Python before, you have several ways to get started:
 
-### Variant 1
+### [](#variant1)Variant 1
 
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/real_python.png)
 
 Install Python in your computer using this instruction https://realpython.com/installing-python/
 
 
-### Variant 2
+### [](#variant2)Variant 2
 
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/gitpod.png)
 
@@ -41,7 +45,7 @@ Open this repository in Gitpod https://gitpod.io#https://github.com/cipher387/Py
 (To run it for the first time, you need to log in to your Github, Gitlab, or Bitbucket account)
 
 
-### Variant 3
+### [](#variant3)Variant 3
 
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/tsurigi.png)
 
@@ -57,7 +61,7 @@ For new MacBooks with M1 — UTM https://mac.getutm.app
 (if your computer has modest technical resources, you can specify in the VM settings for Tsurugi Linux Acquire 2-4 GB of RAM, but run it only in text mode)
 
 
-## A list of links to case studies and discussions on my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
+## [](#usingexamples)Packacge using examples from my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 
 ### YouTubeSearch (https://pypi.org/project/youtube-search-python/)
