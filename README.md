@@ -90,7 +90,7 @@ https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_search_videos_in_channel.py
 
 
-### [](#youtubecommentsdownloader)YouTube Comment Downloader (https://pypi.org/project/youtube-comment-downloader/)
+### [](#youtubecommentsdownloader) YouTube Comment Downloader (https://pypi.org/project/youtube-comment-downloader/)
 
 
 Twitter thread:
@@ -105,7 +105,7 @@ Source code files (example of results in the pictures):
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/youtube_comment_downloader.py
 
 
-### [](#whois)WHOIS (https://pypi.org/project/python-whois/)
+### [](#whois) WHOIS (https://pypi.org/project/python-whois/)
 
 Twitter thread:
 
@@ -122,7 +122,7 @@ https://github.com/cipher387/Python-osint-automation-examples/blob/main/whois.py
 
 
 
-## [](#hints)HINTS
+## [](#hints) HINTS
 
 
 ### Saving results to .txt file
