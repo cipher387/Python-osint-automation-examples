@@ -115,11 +115,12 @@ https://twitter.com/cyb_detective/status/1569500433827385344
 
 Source code files (example of results in the pictures):
 
-
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/whois_python.png)
 
 
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/whois.py
+
+
 
 
 ### [](#duckduckgo)DuckDuckGo search https://pypi.org/project/duckduckgo-search/
@@ -128,9 +129,18 @@ Twitter thread:
 
 Source code files (example of results in the pictures):
 
+Simple search:
+
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/duckduckgo_simple_search.png)
 
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_simple_search.py
+
+Images:
+
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/duckduckgo_search_images.png)
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_search_images.py
+
 
 
 ## [](#hints)HINTS
