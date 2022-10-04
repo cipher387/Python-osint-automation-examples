@@ -158,6 +158,14 @@ https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduck
 
 
 
+Maps
+
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/duckduckgo_search_maps.png)
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_search_maps.py
+
+
+
 ## [](#hints)HINTS
 
 
