@@ -12,7 +12,7 @@ In this repository, I will collect quick and simple code examples that use Pytho
      - [YouTubeSearch](#youtubesearch-httpspypiorgprojectyoutube-search-python) 
      - [YouTube Comments Downloader](#-youtube-comment-downloader-httpspypiorgprojectyoutube-comment-downloader) 
      - [Whois](#whois-httpspypiorgprojectpython-whois)
-     - [DuckDuckGo search](#duckduckgo) 
+     - [DuckDuckGo search](#duckduckgo-search-httpspypiorgprojectduckduckgo-search) 
 - [HINTS](#hints)
 
 ## [](#how-to-run-this-scripts)How to run this scripts?
