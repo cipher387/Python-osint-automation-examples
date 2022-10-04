@@ -129,6 +129,10 @@ Twitter thread:
 Source code files (example of results in the pictures):
 
 
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_simple_search.py
+
+
 ## [](#hints)HINTS
 
 
