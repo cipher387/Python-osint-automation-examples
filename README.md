@@ -141,6 +141,13 @@ Images:
 
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_search_images.py
 
+Videos:
+
+
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/duckduckgo_videos.png)
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_search_video.py
+
 
 
 ## [](#hints)HINTS
