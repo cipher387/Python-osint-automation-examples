@@ -11,7 +11,8 @@ In this repository, I will collect quick and simple code examples that use Pytho
 - [Packages using examples from my Twitter account](#packages-using-examples-from-my-twitter-account-cyb_detective)
      - [YouTubeSearch](#youtubesearch-httpspypiorgprojectyoutube-search-python) 
      - [YouTube Comments Downloader](#-youtube-comment-downloader-httpspypiorgprojectyoutube-comment-downloader) 
-     - [Whois](#whois-httpspypiorgprojectpython-whois) 
+     - [Whois](#whois-httpspypiorgprojectpython-whois)
+     - [DuckDuckGo search](#duckduckgo) 
 - [HINTS](#hints)
 
 ## [](#how-to-run-this-scripts)How to run this scripts?
@@ -120,6 +121,12 @@ Source code files (example of results in the pictures):
 
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/whois.py
 
+
+### [](#duckduckgo)DuckDuckGo search https://pypi.org/project/duckduckgo-search/
+
+Twitter thread:
+
+Source code files (example of results in the pictures):
 
 
 ## [](#hints)HINTS
