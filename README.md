@@ -149,6 +149,14 @@ Videos:
 https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_search_video.py
 
 
+News:
+
+
+![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/duckduckgo_news.png)
+
+https://github.com/cipher387/Python-osint-automation-examples/blob/main/duckduckgo_search_new.py
+
+
 
 ## [](#hints)HINTS
 
