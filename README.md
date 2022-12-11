@@ -2,6 +2,7 @@
 In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.
 
 
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 
 ## [](#table-of-contents) Table of contents
 - [How to run this scripts?](#how-to-run-this-scripts) 
@@ -183,4 +184,8 @@ If you want to save the results to a text file, add "filename.txt" after the com
 (view pic)
 
 ![image](https://github.com/cipher387/Python-osint-automation-examples/blob/main/images/results_to_file.png)
+
+
+
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 
