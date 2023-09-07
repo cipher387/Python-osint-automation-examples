@@ -2,7 +2,7 @@
 In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
 
 ## [](#table-of-contents) Table of contents
 - [How to run this scripts?](#how-to-run-this-scripts) 
@@ -187,5 +187,5 @@ If you want to save the results to a text file, add "filename.txt" after the com
 
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
 
